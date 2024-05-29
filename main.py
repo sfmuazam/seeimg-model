@@ -1,3 +1,5 @@
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 from io import BytesIO
 from typing import Annotated, Union
 from fastapi import FastAPI, UploadFile, File, HTTPException, status
