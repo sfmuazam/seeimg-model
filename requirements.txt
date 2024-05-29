@@ -200,7 +200,7 @@ nltk==3.8.1
 notebook==6.5.3
 notebook_shim==0.2.2
 numexpr==2.9.0
-numpy==1.26.4
+numpy
 oauthlib==3.2.2
 onnxruntime==1.17.1
 openai==1.13.3
