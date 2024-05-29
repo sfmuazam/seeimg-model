@@ -1,0 +1,9 @@
+fastapi==0.111.0
+numpy==1.26.4
+Pillow==9.5.0
+Pillow==10.3.0
+pydantic==1.10.14
+Requests==2.32.2
+starlette==0.37.2
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
