@@ -4,6 +4,6 @@ Pillow
 pydantic
 Requests
 starlette
-tensorflow==2.8.4
+tensorflow==2.6.4
 tensorflow_intel
 Keras-Preprocessing
